@@ -98,4 +98,4 @@ volumes:
       path: /root/.m2
 trigger:
   branch:
-    - main
+    - master
